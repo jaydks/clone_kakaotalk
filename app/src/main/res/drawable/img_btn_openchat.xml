@@ -4,7 +4,7 @@
 
     <item
         android:width="@dimen/margin_35"
-        android:height="@dimen/margin_40"
+        android:height="@dimen/margin_37"
         android:drawable="@drawable/btn_openchat"
         tools:ignore="ResourceCycle" />
 </layer-list>

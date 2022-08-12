@@ -176,7 +176,6 @@
                     android:id="@+id/pay_money"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="@dimen/margin_15"
                     android:layout_marginEnd="@dimen/margin_33"
                     android:text="@string/pay_money"
                     android:textColor="@color/black"
@@ -208,10 +207,10 @@
                         android:textSize="16sp" />
 
                     <View
-                        android:layout_width="1dp"
+                        android:layout_width="0.7dp"
                         android:layout_height="@dimen/margin_15"
                         android:layout_marginTop="20dp"
-                        android:background="#D1B908" />
+                        android:background="#7AD1B908" />
 
                     <Button
                         android:layout_width="@dimen/margin_70"
@@ -221,10 +220,10 @@
                         android:textSize="16sp" />
 
                     <View
-                        android:layout_width="1dp"
+                        android:layout_width="0.7dp"
                         android:layout_height="@dimen/margin_15"
                         android:layout_marginTop="20dp"
-                        android:background="#D1B908" />
+                        android:background="#7AD1B908" />
 
                     <Button
                         android:layout_width="@dimen/margin_70"
@@ -576,6 +575,8 @@
                             android:src="@drawable/img_btn_openchat" />
 
                         <TextView
+                            android:textSize="12sp"
+                            android:layout_marginTop="@dimen/margin_3"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/btn_openchat"
