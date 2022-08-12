@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">clone_kakaotalk</string>
+    <string name="more">더보기</string>
+    <string name="wallet">지갑</string>
+    <string name="wallet_businesscard">톡명함, QR코드로 전달해 보세요.</string>
+    <string name="more_pay">pay</string>
+    <string name="certification">인증서</string>
+    <string name="pay_money">0원</string>
+    <string name="pay_sendmoney">송금</string>
+    <string name="payment">결제</string>
+    <string name="assets">자산</string>
+    <string name="buy">구매내역</string>
+    <string name="btn_present">선물하기</string>
+    <string name="btn_shopping">쇼핑하기</string>
+    <string name="btn_makers">메이커스</string>
+    <string name="btn_friends">프렌즈</string>
+    <string name="btn_imoji">이모티콘</string>
+    <string name="btn_talkbox">톡서랍</string>
+    <string name="btn_mail">메일</string>
+    <string name="btn_calendar">캘린더</string>
+    <string name="btn_game">게임</string>
+    <string name="btn_fashion">패션</string>
+    <string name="btn_order">주문하기</string>
+    <string name="btn_melonticket">멜론티켓</string>
+    <string name="btn_kakaomap">카카오맵</string>
+    <string name="btn_openchat">오픈채팅</string>
+    <string name="btn_talkbusinesscard">톡명합</string>
+    <string name="btn_wholeservice">전체서비스</string>
+    <string name="txt_location">노원구 중계동</string>
+    <string name="temperature">31°</string>
+    <string name="txt_compare_yesterday">어제보다 6°C 높아요</string>
+    <string name="txt_dust">미세먼지 보통</string>
 </resources>

@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/advertisement_round.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable/img_btn_calendar.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_fashion.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_friends.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_game.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_imoji.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_kakaomap.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_mail.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_makers.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_melonticket.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_openchat.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_order.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_present.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_shopping.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_talkbox.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_talkbusinesscard.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_btn_wholeservice.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_business_card.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_businesscard.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_businesscard_arrow.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/img_pay.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/search_round.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/selector_bottom_chat_icon.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/selector_bottom_more_icon.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/selector_bottom_shopping_icon.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/selector_bottom_view_icon.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/selector_menu_color.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/wallet_arrow.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/wallet_businesscard_round.xml" value="0.1335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26605667377073833" />
+        <entry key="app/src/main/res/menu/bottom_tab_menu.xml" value="0.16296296296296298" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
